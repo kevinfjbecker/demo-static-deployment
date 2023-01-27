@@ -46,6 +46,11 @@ a:hover {
     text-decoration: underline
 }
 
+a.cred {
+    color: #ffffff;
+    font-size: 10px;
+}
+
 .vader {
     position: absolute;
     top: 50%;
